@@ -1,4 +1,14 @@
 ### Hi there 👋
+[![NavlysChen's github stats](https://github-readme-stats.vercel.app/api?username=NavlysChen&show_icons=true&include_all_commits=true&theme=vue)](https://github.com/NavlysChen/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NavlysChen&show_icons=true&include_all_commits=true&theme=vue)](https://github.com/NavlysChen/github-readme-stats)
+
+<!--
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NavlysChen&repo=android_device_xiaomi_sirius&show_icons=true&include_all_commits=true&theme=vue)](https://github.com/NavlysChen/android_device_xiaomi_sirius)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NavlysChen&repo=android_device_xiaomi_sdm710-common&show_icons=true&include_all_commits=true&theme=vue)](https://github.com/NavlysChen/android_device_xiaomi_sdm710-common)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NavlysChen&repo=android_kernel_xiaomi_sdm710&show_icons=true&include_all_commits=true&theme=vue)](https://github.com/NavlysChen/android_kernel_xiaomi_sdm710)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NavlysChen&repo=proprietary_vendor_xiaomi&show_icons=true&include_all_commits=true&theme=vue)](https://github.com/NavlysChen/proprietary_vendor_xiaomi)
+-->
 
 <!--
 **NavlysChen/NavlysCHen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
