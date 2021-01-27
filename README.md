@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there ! I'm `NavlysChen` 👋
 [![NavlysChen's github stats](https://github-readme-stats.vercel.app/api?username=NavlysChen&show_icons=true&include_all_commits=true&theme=vue)](https://github.com/NavlysChen/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NavlysChen&show_icons=true&include_all_commits=true&theme=vue)](https://github.com/NavlysChen/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NavlysChen&show_icons=true&include_all_commits=true&theme=vue)](https://github.com/NavlysChen)
 
 <!--
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NavlysChen&repo=android_device_xiaomi_sirius&show_icons=true&include_all_commits=true&theme=vue)](https://github.com/NavlysChen/android_device_xiaomi_sirius)
